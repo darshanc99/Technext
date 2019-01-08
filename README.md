@@ -1,1 +1,1 @@
-# TEchnext
+# Technext
